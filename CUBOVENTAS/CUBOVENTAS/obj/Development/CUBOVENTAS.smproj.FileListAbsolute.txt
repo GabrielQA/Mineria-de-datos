@@ -1,0 +1,6 @@
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\MINERIA_PROYECTO1\CUBOVENTAS\CUBOVENTAS\obj\Development\Model.asdatabase
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\MINERIA_PROYECTO1\CUBOVENTAS\CUBOVENTAS\obj\Development\Model.deploymenttargets
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\MINERIA_PROYECTO1\CUBOVENTAS\CUBOVENTAS\obj\Development\Model.deploymentoptions
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\MINERIA_PROYECTO1\CUBOVENTAS\CUBOVENTAS\bin\Model.asdatabase
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\MINERIA_PROYECTO1\CUBOVENTAS\CUBOVENTAS\bin\Model.deploymenttargets
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\MINERIA_PROYECTO1\CUBOVENTAS\CUBOVENTAS\bin\Model.deploymentoptions

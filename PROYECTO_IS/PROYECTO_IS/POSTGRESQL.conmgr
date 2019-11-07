@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="POSTGRESQL"
+  DTS:DTSID="{C6512A36-53B6-4DA9-B1E2-9DD88A73D488}"
+  DTS:CreationName="DevartPostgreSql">
+  <DTS:ObjectData>
+    <PostgreSqlConnectionManager>
+      <ConnectionString>User Id=postgres;Host=localhost;Database=sabor_natural;Persist Security Info=True;Initial Schema=public</ConnectionString>
+      <Password
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAITKIw67FMEWdVrqJ68fbqgAAAAACAAAAAAAQZgAAAAEAACAAAAAFtaCSyPUA4BZWRgNGtCesA7gKQFiXsx2AVLopY7UaPAAAAAAOgAAAAAIAACAAAACeq1fhyLLJwk3zgSfnCWqifZVZNCm0HMGG1RnMkNVzdzAAAAAF1FS6oheAjneHtrj5Ge4sp43a9f0Hr5awM2Zwt3JEFXvfVhGX9g1IIXYLbaK56kZAAAAAlJ17DCLpZhTpp6HJ+HyvM8EdlGpSoT5LtDt9sfoJO1Ycb7lPRkHy02PnDFO1LQxU6vN8h95RhmMh3nrVt0TG5w==</Password>
+    </PostgreSqlConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
